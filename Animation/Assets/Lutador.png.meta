@@ -1,0 +1,1435 @@
+fileFormatVersion: 2
+guid: 110e830f8d6fbab41a4804c281561dde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4897789668057485423
+    second: Lutador_0
+  - first:
+      213: -6215268414837471781
+    second: Lutador_1
+  - first:
+      213: -2363862290661235662
+    second: Lutador_2
+  - first:
+      213: -3842543131908422625
+    second: Lutador_3
+  - first:
+      213: -9194179596823221209
+    second: Lutador_4
+  - first:
+      213: 9178040648287860171
+    second: Lutador_5
+  - first:
+      213: -5153857049959632546
+    second: Lutador_6
+  - first:
+      213: 4927676979331092197
+    second: Lutador_7
+  - first:
+      213: -2408424535521094786
+    second: Lutador_8
+  - first:
+      213: -7615526609616679242
+    second: Lutador_9
+  - first:
+      213: -6323585343082402691
+    second: Lutador_10
+  - first:
+      213: 8208594315430210340
+    second: Lutador_11
+  - first:
+      213: 6656023492207472154
+    second: Lutador_12
+  - first:
+      213: -7813896447185237647
+    second: Lutador_13
+  - first:
+      213: 6757670024909441894
+    second: Lutador_14
+  - first:
+      213: 7738281607615633554
+    second: Lutador_15
+  - first:
+      213: 1719762432518515978
+    second: Lutador_16
+  - first:
+      213: 4197203853590104548
+    second: Lutador_17
+  - first:
+      213: -1396831515264569458
+    second: Lutador_18
+  - first:
+      213: -6290658410251552988
+    second: Lutador_19
+  - first:
+      213: -1461708108697048806
+    second: Lutador_20
+  - first:
+      213: 3156930377161934421
+    second: Lutador_21
+  - first:
+      213: -3858549950515762969
+    second: Lutador_22
+  - first:
+      213: -4978760247817375932
+    second: Lutador_23
+  - first:
+      213: 4945198035676675728
+    second: Lutador_24
+  - first:
+      213: -5554405547700512605
+    second: Lutador_25
+  - first:
+      213: -1692476822420328410
+    second: Lutador_26
+  - first:
+      213: 3782042879860339146
+    second: Lutador_27
+  - first:
+      213: -7564925273507883600
+    second: Lutador_28
+  - first:
+      213: -6952687302426324292
+    second: Lutador_29
+  - first:
+      213: 558173842418634623
+    second: Lutador_30
+  - first:
+      213: -8166212552216728524
+    second: Lutador_31
+  - first:
+      213: -1381378722594948984
+    second: Lutador_32
+  - first:
+      213: -1333224894262082352
+    second: Lutador_33
+  - first:
+      213: -6910150384132113947
+    second: Lutador_34
+  - first:
+      213: -2439749783482444043
+    second: Lutador_35
+  - first:
+      213: -7758970904001128045
+    second: Lutador_36
+  - first:
+      213: 8492080914972141319
+    second: Lutador_37
+  - first:
+      213: -1054321368708609883
+    second: Lutador_38
+  - first:
+      213: -1364946897779288784
+    second: Lutador_39
+  - first:
+      213: 4937292312102234947
+    second: Lutador_40
+  - first:
+      213: 1140521857215243425
+    second: Lutador_41
+  - first:
+      213: 4766270154710107636
+    second: Lutador_42
+  - first:
+      213: 6350052232747493634
+    second: Lutador_43
+  - first:
+      213: -3266098176129579693
+    second: Lutador_44
+  - first:
+      213: 7678855054070313251
+    second: Lutador_45
+  - first:
+      213: 9138388243549759421
+    second: Lutador_46
+  - first:
+      213: 2733088036748301233
+    second: Lutador_47
+  - first:
+      213: -9179374351437824326
+    second: Lutador_48
+  - first:
+      213: 7895695363257472733
+    second: Lutador_49
+  - first:
+      213: 7013897817067250515
+    second: Lutador_50
+  - first:
+      213: -1902281940991426450
+    second: Lutador_51
+  - first:
+      213: -7375736833160046388
+    second: Lutador_52
+  - first:
+      213: -3329912419057324478
+    second: Lutador_53
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lutador_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 642
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19feada1f3e870cb0800000000000000
+      internalID: -4897789668057485423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 642
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd548ed7e4eeeb9a0800000000000000
+      internalID: -6215268414837471781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 642
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234223b55cfd13fd0800000000000000
+      internalID: -2363862290661235662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 642
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f144b74516b8caac0800000000000000
+      internalID: -3842543131908422625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 642
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c253a9e56b76080800000000000000
+      internalID: -9194179596823221209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_5
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 642
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc53b4f9753fe5f70800000000000000
+      internalID: 9178040648287860171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_6
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 642
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517302c152d978b0800000000000000
+      internalID: -5153857049959632546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_7
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 642
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee46e0da10a26440800000000000000
+      internalID: 4927676979331092197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_8
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 642
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e731ee335ae839ed0800000000000000
+      internalID: -2408424535521094786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_9
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 514
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4348b5e6305690800000000000000
+      internalID: -7615526609616679242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 514
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce4be52ac1e38a0800000000000000
+      internalID: -6323585343082402691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 514
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2284f909cae170800000000000000
+      internalID: 8208594315430210340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_12
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 514
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e6eadd912fe5c50800000000000000
+      internalID: 6656023492207472154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_13
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 514
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17946d1c4967f8390800000000000000
+      internalID: -7813896447185237647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 512
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4800851118cd50800000000000000
+      internalID: 6757670024909441894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_15
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 514
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2985ed97f16e36b60800000000000000
+      internalID: 7738281607615633554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_16
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 514
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de35812d2ddd710800000000000000
+      internalID: 1719762432518515978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_17
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 514
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e98327caa67f3a30800000000000000
+      internalID: 4197203853590104548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 386
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fa59933257d9ce0800000000000000
+      internalID: -1396831515264569458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 386
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427f1a5518713b8a0800000000000000
+      internalID: -6290658410251552988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 386
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19edc73838f6bbe0800000000000000
+      internalID: -1461708108697048806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_21
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 386
+        width: 81
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556806fa37bafcb20800000000000000
+      internalID: 3156930377161934421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_22
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 386
+        width: 128
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82863734da37ac0800000000000000
+      internalID: -3858549950515762969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 386
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f6207eee3e7eab0800000000000000
+      internalID: -4978760247817375932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_24
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 386
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb774a96fd0a440800000000000000
+      internalID: 4945198035676675728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_25
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 386
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a81ad63599cae2b0800000000000000
+      internalID: -5554405547700512605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_26
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 386
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620fd011c4d1388e0800000000000000
+      internalID: -1692476822420328410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 258
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1fe5b06f38c7430800000000000000
+      internalID: 3782042879860339146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_28
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 258
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b510306b8cf30790800000000000000
+      internalID: -7564925273507883600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_29
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 258
+        width: 78
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb292804cb7138f90800000000000000
+      internalID: -6952687302426324292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 258
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f074007280fb700800000000000000
+      internalID: 558173842418634623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_31
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 258
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c29c043f8cbae80800000000000000
+      internalID: -8166212552216728524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_32
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 258
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888f173ee5b54dce0800000000000000
+      internalID: -1381378722594948984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_33
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 258
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40dcbb50f6f7de0800000000000000
+      internalID: -1333224894262082352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_34
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 258
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9b64156d63a10a0800000000000000
+      internalID: -6910150384132113947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_35
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 258
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f651be8f74442ed0800000000000000
+      internalID: -2439749783482444043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 130
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399db645219925490800000000000000
+      internalID: -7758970904001128045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 130
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707e9c4699ee9d570800000000000000
+      internalID: 8492080914972141319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 130
+        width: 75
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8050b1d4c4e51f0800000000000000
+      internalID: -1054321368708609883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_39
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 130
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035189c370cbe0de0800000000000000
+      internalID: -1364946897779288784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_40
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 130
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bee1fe239c48440800000000000000
+      internalID: 4937292312102234947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_41
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 130
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a422ed1692f3df00800000000000000
+      internalID: 1140521857215243425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_42
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 130
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5ca03f371352240800000000000000
+      internalID: 4766270154710107636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_43
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 130
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20927169cdaef1850800000000000000
+      internalID: 6350052232747493634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_44
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 130
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ce3a630d7ca2d0800000000000000
+      internalID: -3266098176129579693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f293ccf5c09a60800000000000000
+      internalID: 7678855054070313251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a364b0b312de70800000000000000
+      internalID: 9138388243549759421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b39042c611ede520800000000000000
+      internalID: 2733088036748301233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_48
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe773a69af4c9080800000000000000
+      internalID: -9179374351437824326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_49
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2
+        width: 113
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd619a58915239d60800000000000000
+      internalID: 7895695363257472733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_50
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 0
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3536e2547ee565160800000000000000
+      internalID: 7013897817067250515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_51
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60c09447acb995e0800000000000000
+      internalID: -1902281940991426450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_52
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 0
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc81bb6bd6e14a990800000000000000
+      internalID: -7375736833160046388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lutador_53
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 0
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2de82c46c9c1d0800000000000000
+      internalID: -3329912419057324478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
