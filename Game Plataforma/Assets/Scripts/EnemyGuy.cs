@@ -9,8 +9,10 @@ public class EnemyGuy : MonoBehaviour
     public float walkTime;
 
     public int health;
+    public int damage = 1;
 
     private float timer;
+
 
 
     private Animator anim;
@@ -59,6 +61,14 @@ public class EnemyGuy : MonoBehaviour
         {
             // destroi o inimigo
             Destroy(gameObject);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            collision.gameObject.GetComponent<Player>().Damage(damage);
         }
     }
 }

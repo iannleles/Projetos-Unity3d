@@ -137,10 +137,29 @@ public class Player : MonoBehaviour
     {
         health -= dmg;
         GameController.instance.UpdateLives(health);
+        anim.SetTrigger("hit");
+
+        if (transform.rotation.y == 0)
+        {
+            transform.position += new Vector3(-0.5f,0,0);
+        }
+        if (transform.rotation.y == 180)
+        {
+            transform.position += new Vector3(0.5f, 0, 0);
+        }
+
+
+
         if (health <= 0)
         {
             //chamar game over
         }
+    }
+
+    public void IncreaseLife(int value)
+    {
+        health += value;
+        GameController.instance.UpdateLives(health);
     }
 
 
