@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
 
     public GameObject bow;
     public Transform firePoint;
+    
 
     private bool isJumping;
     private bool doubleJump;
@@ -18,7 +19,13 @@ public class Player : MonoBehaviour
 
     private Rigidbody2D rig;
     private Animator anim;
-    private float movement;
+    
+
+    public bool isMobile;
+    public float movement;
+
+    public bool touchJump;
+    public bool touchFire;
 
 
 
@@ -48,8 +55,12 @@ public class Player : MonoBehaviour
 
     void Move()
     {
-        // se nao pressionar nada o valor é 0. Pressionar direita, valor máximo 1. Esquerda valor máximo -1
-        movement = Input.GetAxis("Horizontal");
+        if (!isMobile)
+        {
+            // se nao pressionar nada o valor é 0. Pressionar direita, valor máximo 1. Esquerda valor máximo -1
+            movement = Input.GetAxis("Horizontal");
+        }
+       
 
 
         // adiciona velocidade ao corpo do personagem no eixo x e y
@@ -83,7 +94,7 @@ public class Player : MonoBehaviour
 
     void Jump()
     {
-        if (Input.GetButtonDown("Jump"))
+        if (Input.GetButtonDown("Jump") || touchJump)
         {
             if (!isJumping)
             {
@@ -101,6 +112,7 @@ public class Player : MonoBehaviour
                     doubleJump = false;
                 }
             }
+            touchJump = false;
         }
     }
 
@@ -111,8 +123,9 @@ public class Player : MonoBehaviour
 
     IEnumerator Fire()
     {
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.E) || touchFire)
         {
+            touchFire = false;
             isFire = true;
             anim.SetInteger("transition", 3);
             GameObject Bow = Instantiate(bow, firePoint.position, firePoint.rotation);
@@ -130,6 +143,8 @@ public class Player : MonoBehaviour
 
             isFire = false;
             anim.SetInteger("transition", 0);
+
+            
         }
     }
 
@@ -153,6 +168,7 @@ public class Player : MonoBehaviour
         if (health <= 0)
         {
             //chamar game over
+            GameController.instance.GameOver();
         }
     }
 
@@ -168,6 +184,10 @@ public class Player : MonoBehaviour
         if (coll.gameObject.layer == 8)
         {
             isJumping = false;
+        }
+        if (coll.gameObject.layer == 9)
+        {
+            GameController.instance.GameOver();
         }
     }
 }
